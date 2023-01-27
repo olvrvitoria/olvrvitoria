@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Vitória Oliveira
 - 🖋 Início desta jornada na programação: Agosto/22.
-- ⚡ Cientista Social imersa no universo em expansão da programação.
-- 📚 One step by day.
+- ⚡ Cientista Social imersa no universo da programação.
+- 📚 One step every day.
 - 🤖 Desenvolvedora Web. 
 
 <div align="center">
