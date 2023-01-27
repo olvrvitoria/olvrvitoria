@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Vitória Oliveira
 - 🖋 Início desta jornada na programação: Agosto/22.
-- ⚡ Curiosidade: Sou ex acadêmica de medicina, apaixonada por cuidar do próximo e espero utilizar de meus conhecimentos para esta nova fase.
+- ⚡ Cientista Social imersa no universo em expansão da programação.
 - 📚 One step by day.
 - 🤖 Desenvolvedora Web. 
 
