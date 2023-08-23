@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Vitória Oliveira
 - 🖋 Início desta jornada na programação: Agosto/22.
-- ⚡ Cientista Social imersa no universo da programação.
+- ⚡ Cursando Sistemas da Computação na UFF.
 - 📚 One step every day.
 - 🤖 Desenvolvedora Web. 
 
