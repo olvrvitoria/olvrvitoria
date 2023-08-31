@@ -2,7 +2,7 @@
 - 🖋 Início desta jornada na programação: Agosto/22.
 - ⚡ Cursando Sistemas da Computação na UFF.
 - 📚 One step every day.
-- 🤖 Desenvolvedora Web. 
+- 🤖 Software Developer. 
 
 <div align="center">
   <a href="https://github.com/olvrvitoria">
